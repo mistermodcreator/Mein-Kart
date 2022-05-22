@@ -1,0 +1,12 @@
+{
+  "start_hoch": {
+    "sounds": [{
+      "name" : "sound_effects:start_hoch"
+    }]
+  },
+  "start_tief": {
+    "sounds": [{
+      "name" : "sound_effects:start_tief"
+      }]
+    }
+}

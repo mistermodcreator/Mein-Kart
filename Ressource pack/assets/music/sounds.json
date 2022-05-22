@@ -1,0 +1,130 @@
+{
+  "1_intro": {
+    "sounds": [{
+      "name" : "music:1_intro",
+      "stream" : true
+    }]
+  },
+  "1_intro_hold": {
+    "sounds": [{
+      "name" : "music:1_intro_hold",
+      "stream" : true
+    }]
+  },
+  "1_go": {
+    "sounds": [{
+      "name" : "music:1_go",
+      "stream" : true
+    }]
+  },
+  "1_loop_1_1": {
+    "sounds": [{
+      "name" : "music:1_loop_1_1",
+      "stream" : true
+    }]
+  },
+  "1_loop_1_2": {
+    "sounds": [{
+      "name" : "music:1_loop_1_2",
+      "stream" : true
+    }]
+  },
+  "1_loop_1_3": {
+    "sounds": [{
+      "name" : "music:1_loop_1_3",
+      "stream" : true
+    }]
+  },
+  "2_intro": {
+    "sounds": [{
+      "name" : "music:2_intro",
+      "stream" : true
+    }]
+  },
+  "2_intro_hold": {
+    "sounds": [{
+      "name" : "music:2_intro_hold",
+      "stream" : true
+    }]
+  },
+  "2_go": {
+    "sounds": [{
+      "name" : "music:2_go",
+      "stream" : true
+    }]
+  },
+  "2_loop_1_1": {
+    "sounds": [{
+      "name" : "music:2_loop_1_1",
+      "stream" : true
+    }]
+  },
+  "2_loop_2_1": {
+    "sounds": [{
+      "name" : "music:2_loop_2_1",
+      "stream" : true
+    }]
+  },
+  "2_loop_2_2": {
+    "sounds": [{
+      "name" : "music:2_loop_2_2",
+      "stream" : true
+    }]
+  },
+  "credits": {
+    "sounds": [{
+      "name" : "music:credits",
+      "stream" : true
+    }]
+  },
+  "3_intro": {
+    "sounds": [{
+      "name" : "music:3_intro",
+      "stream" : true
+    }]
+  },
+  "3_intro_hold": {
+    "sounds": [{
+      "name" : "music:3_intro_hold",
+      "stream" : true
+    }]
+  },
+  "loop_3_1": {
+    "sounds": [{
+      "name" : "music:loop_3_1",
+      "stream" : true
+    }]
+  },
+  "loop_3_2": {
+    "sounds": [{
+      "name" : "music:loop_3_2",
+      "stream" : true
+    }]
+  },
+  "lobby": {
+    "sounds": [
+      {
+      "name" : "music:lobby-01",
+      "stream" : true
+    },
+    { "name" : "music:lobby-02",
+      "stream" : true
+    },
+    { "name" : "music:lobby-03",
+      "stream" : true
+    },
+    { "name" : "music:lobby-04",
+      "stream" : true
+    },
+    { "name" : "music:lobby-05",
+      "stream" : true
+    },
+    { "name" : "music:lobby-06",
+      "stream" : true
+    },
+    { "name" : "music:lobby-07",
+      "stream" : true
+    }
+    ]
+  }
+}
